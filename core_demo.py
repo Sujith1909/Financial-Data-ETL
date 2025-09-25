@@ -81,7 +81,7 @@ def main():
     risk_analyzer = RiskAnalyzer(results['fund_analytics'])
     
     # Test with sample portfolio
-    sample_portfolio = ['F001', 'F002', 'F003', 'F004', 'F005', 'F006', 'F007', 'F008', 'F009','F010']
+    sample_portfolio = [ 'F007', 'F001', 'F004']
     
     print(f"\nAnalyzing portfolio: {', '.join(sample_portfolio)}")
     
