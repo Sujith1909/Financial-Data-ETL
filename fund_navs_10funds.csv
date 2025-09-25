@@ -1,0 +1,311 @@
+fund_id,fund_name,date,nav
+F001,Axis Bluechip Fund,2022-01-01,38.61
+F001,Axis Bluechip Fund,2022-01-02,38.61
+F001,Axis Bluechip Fund,2022-01-03,
+F001,Axis Bluechip Fund,2022-01-04,39.07
+F001,Axis Bluechip Fund,2022-01-05,39.04
+F001,Axis Bluechip Fund,2022-01-06,39.01
+F001,Axis Bluechip Fund,2022-01-07,39.34
+F001,Axis Bluechip Fund,2022-01-08,39.51
+F001,Axis Bluechip Fund,2022-01-09,39.44
+F001,Axis Bluechip Fund,2022-01-10,124.38794049484422
+F001,Axis Bluechip Fund,2022-01-11,39.49
+F001,Axis Bluechip Fund,2022-01-12,39.42
+F001,Axis Bluechip Fund,2022-01-13,39.49
+F001,Axis Bluechip Fund,2022-01-14,39.13
+F001,Axis Bluechip Fund,2022-01-15,38.81
+F001,Axis Bluechip Fund,2022-01-16,38.72
+F001,Axis Bluechip Fund,2022-01-17,38.55
+F001,Axis Bluechip Fund,2022-01-18,38.63
+F001,Axis Bluechip Fund,2022-01-19,38.47
+F001,Axis Bluechip Fund,2022-01-20,38.22
+F001,Axis Bluechip Fund,2022-01-21,38.52
+F001,Axis Bluechip Fund,2022-01-22,38.49
+F001,Axis Bluechip Fund,2022-01-23,38.53
+F001,Axis Bluechip Fund,2022-01-24,38.27
+F001,Axis Bluechip Fund,2022-01-25,38.19
+F001,Axis Bluechip Fund,2022-01-26,101.48863825839653
+F001,Axis Bluechip Fund,2022-01-27,38.02
+F001,Axis Bluechip Fund,2022-01-28,38.11
+F001,Axis Bluechip Fund,2022-01-29,38.02
+F001,Axis Bluechip Fund,2022-01-30,37.98
+F001,Axis Bluechip Fund,2022-01-31,37.89
+F002,HDFC Top 100 Fund,2022-01-01,515.18
+F002,HDFC Top 100 Fund,2022-01-02,515.4
+F002,HDFC Top 100 Fund,2022-01-03,512.94
+F002,HDFC Top 100 Fund,2022-01-04,515.3
+F002,HDFC Top 100 Fund,2022-01-05,512.41
+F002,HDFC Top 100 Fund,2022-01-06,
+F002,HDFC Top 100 Fund,2022-01-07,508.43
+F002,HDFC Top 100 Fund,2022-01-08,505.31
+F002,HDFC Top 100 Fund,2022-01-09,506.06
+F002,HDFC Top 100 Fund,2022-01-10,508.18
+F002,HDFC Top 100 Fund,2022-01-11,508.87
+F002,HDFC Top 100 Fund,2022-01-12,508.83
+F002,HDFC Top 100 Fund,2022-01-13,508.32
+F002,HDFC Top 100 Fund,2022-01-14,504.82
+F002,HDFC Top 100 Fund,2022-01-15,503.25
+F002,HDFC Top 100 Fund,2022-01-16,502.34
+F002,HDFC Top 100 Fund,2022-01-17,505.25
+F002,HDFC Top 100 Fund,2022-01-18,506.37
+F002,HDFC Top 100 Fund,2022-01-19,502.16
+F002,HDFC Top 100 Fund,2022-01-20,
+F002,HDFC Top 100 Fund,2022-01-21,502.51
+F002,HDFC Top 100 Fund,2022-01-22,501.06
+F002,HDFC Top 100 Fund,2022-01-23,502.84
+F002,HDFC Top 100 Fund,2022-01-24,505.69
+F002,HDFC Top 100 Fund,2022-01-25,508.29
+F002,HDFC Top 100 Fund,2022-01-26,506.41
+F002,HDFC Top 100 Fund,2022-01-27,1834.4759836615442
+F002,HDFC Top 100 Fund,2022-01-28,506.98
+F002,HDFC Top 100 Fund,2022-01-29,509.7
+F002,HDFC Top 100 Fund,2022-01-30,1847.649212642762
+F002,HDFC Top 100 Fund,2022-01-31,
+F003,SBI Small Cap Fund,2022-01-01,92.93
+F003,SBI Small Cap Fund,2022-01-02,92.42
+F003,SBI Small Cap Fund,2022-01-03,92.84
+F003,SBI Small Cap Fund,2022-01-04,93.52
+F003,SBI Small Cap Fund,2022-01-05,93.53
+F003,SBI Small Cap Fund,2022-01-06,94.05
+F003,SBI Small Cap Fund,2022-01-07,94.26
+F003,SBI Small Cap Fund,2022-01-08,94.01
+F003,SBI Small Cap Fund,2022-01-09,94.22
+F003,SBI Small Cap Fund,2022-01-10,95.0
+F003,SBI Small Cap Fund,2022-01-11,95.03
+F003,SBI Small Cap Fund,2022-01-12,95.82
+F003,SBI Small Cap Fund,2022-01-13,94.61
+F003,SBI Small Cap Fund,2022-01-14,95.05
+F003,SBI Small Cap Fund,2022-01-15,95.14
+F003,SBI Small Cap Fund,2022-01-16,95.04
+F003,SBI Small Cap Fund,2022-01-17,95.13
+F003,SBI Small Cap Fund,2022-01-18,94.23
+F003,SBI Small Cap Fund,2022-01-19,94.18
+F003,SBI Small Cap Fund,2022-01-20,
+F003,SBI Small Cap Fund,2022-01-21,95.14
+F003,SBI Small Cap Fund,2022-01-22,94.94
+F003,SBI Small Cap Fund,2022-01-23,94.6
+F003,SBI Small Cap Fund,2022-01-24,94.41
+F003,SBI Small Cap Fund,2022-01-25,94.89
+F003,SBI Small Cap Fund,2022-01-26,95.1
+F003,SBI Small Cap Fund,2022-01-27,94.89
+F003,SBI Small Cap Fund,2022-01-28,95.18
+F003,SBI Small Cap Fund,2022-01-29,95.28
+F003,SBI Small Cap Fund,2022-01-30,95.78
+F003,SBI Small Cap Fund,2022-01-31,95.5
+F004,ICICI Pru Balanced Advantage,2022-01-01,32.06
+F004,ICICI Pru Balanced Advantage,2022-01-02,32.02
+F004,ICICI Pru Balanced Advantage,2022-01-03,31.8
+F004,ICICI Pru Balanced Advantage,2022-01-04,31.86
+F004,ICICI Pru Balanced Advantage,2022-01-05,31.92
+F004,ICICI Pru Balanced Advantage,2022-01-06,31.94
+F004,ICICI Pru Balanced Advantage,2022-01-07,31.91
+F004,ICICI Pru Balanced Advantage,2022-01-08,31.7
+F004,ICICI Pru Balanced Advantage,2022-01-09,31.65
+F004,ICICI Pru Balanced Advantage,2022-01-10,
+F004,ICICI Pru Balanced Advantage,2022-01-11,31.5
+F004,ICICI Pru Balanced Advantage,2022-01-12,31.49
+F004,ICICI Pru Balanced Advantage,2022-01-13,31.57
+F004,ICICI Pru Balanced Advantage,2022-01-14,31.89
+F004,ICICI Pru Balanced Advantage,2022-01-15,
+F004,ICICI Pru Balanced Advantage,2022-01-16,31.99
+F004,ICICI Pru Balanced Advantage,2022-01-17,31.99
+F004,ICICI Pru Balanced Advantage,2022-01-18,31.7
+F004,ICICI Pru Balanced Advantage,2022-01-19,31.71
+F004,ICICI Pru Balanced Advantage,2022-01-20,31.74
+F004,ICICI Pru Balanced Advantage,2022-01-21,32.15
+F004,ICICI Pru Balanced Advantage,2022-01-22,32.13
+F004,ICICI Pru Balanced Advantage,2022-01-23,32.19
+F004,ICICI Pru Balanced Advantage,2022-01-24,32.21
+F004,ICICI Pru Balanced Advantage,2022-01-25,32.03
+F004,ICICI Pru Balanced Advantage,2022-01-26,32.23
+F004,ICICI Pru Balanced Advantage,2022-01-27,32.37
+F004,ICICI Pru Balanced Advantage,2022-01-28,32.51
+F004,ICICI Pru Balanced Advantage,2022-01-29,32.38
+F004,ICICI Pru Balanced Advantage,2022-01-30,32.63
+F004,ICICI Pru Balanced Advantage,2022-01-31,32.41
+F005,Kotak Emerging Equity,2022-01-01,68.03
+F005,Kotak Emerging Equity,2022-01-02,68.81
+F005,Kotak Emerging Equity,2022-01-03,68.51
+F005,Kotak Emerging Equity,2022-01-04,68.35
+F005,Kotak Emerging Equity,2022-01-05,68.41
+F005,Kotak Emerging Equity,2022-01-06,68.28
+F005,Kotak Emerging Equity,2022-01-07,67.78
+F005,Kotak Emerging Equity,2022-01-08,67.84
+F005,Kotak Emerging Equity,2022-01-09,67.51
+F005,Kotak Emerging Equity,2022-01-10,67.71
+F005,Kotak Emerging Equity,2022-01-11,67.43
+F005,Kotak Emerging Equity,2022-01-12,67.98
+F005,Kotak Emerging Equity,2022-01-13,67.75
+F005,Kotak Emerging Equity,2022-01-14,67.68
+F005,Kotak Emerging Equity,2022-01-15,67.99
+F005,Kotak Emerging Equity,2022-01-16,67.6
+F005,Kotak Emerging Equity,2022-01-17,67.71
+F005,Kotak Emerging Equity,2022-01-18,68.19
+F005,Kotak Emerging Equity,2022-01-19,67.67
+F005,Kotak Emerging Equity,2022-01-20,67.77
+F005,Kotak Emerging Equity,2022-01-21,67.89
+F005,Kotak Emerging Equity,2022-01-22,68.19
+F005,Kotak Emerging Equity,2022-01-23,67.8
+F005,Kotak Emerging Equity,2022-01-24,67.39
+F005,Kotak Emerging Equity,2022-01-25,67.6
+F005,Kotak Emerging Equity,2022-01-26,67.73
+F005,Kotak Emerging Equity,2022-01-27,67.85
+F005,Kotak Emerging Equity,2022-01-28,68.0
+F005,Kotak Emerging Equity,2022-01-29,67.81
+F005,Kotak Emerging Equity,2022-01-30,67.92
+F005,Kotak Emerging Equity,2022-01-31,68.05
+F006,Nippon India Index Fund – Nifty 50,2022-01-01,104.68
+F006,Nippon India Index Fund – Nifty 50,2022-01-02,105.71
+F006,Nippon India Index Fund – Nifty 50,2022-01-03,106.01
+F006,Nippon India Index Fund – Nifty 50,2022-01-04,105.43
+F006,Nippon India Index Fund – Nifty 50,2022-01-05,105.83
+F006,Nippon India Index Fund – Nifty 50,2022-01-06,105.37
+F006,Nippon India Index Fund – Nifty 50,2022-01-07,105.83
+F006,Nippon India Index Fund – Nifty 50,2022-01-08,106.5
+F006,Nippon India Index Fund – Nifty 50,2022-01-09,106.12
+F006,Nippon India Index Fund – Nifty 50,2022-01-10,106.68
+F006,Nippon India Index Fund – Nifty 50,2022-01-11,106.95
+F006,Nippon India Index Fund – Nifty 50,2022-01-12,107.45
+F006,Nippon India Index Fund – Nifty 50,2022-01-13,108.52
+F006,Nippon India Index Fund – Nifty 50,2022-01-14,108.44
+F006,Nippon India Index Fund – Nifty 50,2022-01-15,108.09
+F006,Nippon India Index Fund – Nifty 50,2022-01-16,107.66
+F006,Nippon India Index Fund – Nifty 50,2022-01-17,107.27
+F006,Nippon India Index Fund – Nifty 50,2022-01-18,107.29
+F006,Nippon India Index Fund – Nifty 50,2022-01-19,107.52
+F006,Nippon India Index Fund – Nifty 50,2022-01-20,107.73
+F006,Nippon India Index Fund – Nifty 50,2022-01-21,108.23
+F006,Nippon India Index Fund – Nifty 50,2022-01-22,108.29
+F006,Nippon India Index Fund – Nifty 50,2022-01-23,
+F006,Nippon India Index Fund – Nifty 50,2022-01-24,109.04
+F006,Nippon India Index Fund – Nifty 50,2022-01-25,110.58
+F006,Nippon India Index Fund – Nifty 50,2022-01-26,110.98
+F006,Nippon India Index Fund – Nifty 50,2022-01-27,110.56
+F006,Nippon India Index Fund – Nifty 50,2022-01-28,110.02
+F006,Nippon India Index Fund – Nifty 50,2022-01-29,110.34
+F006,Nippon India Index Fund – Nifty 50,2022-01-30,110.27
+F006,Nippon India Index Fund – Nifty 50,2022-01-31,110.72
+F007,Parag Parikh Flexi Cap Fund,2022-01-01,55.66
+F007,Parag Parikh Flexi Cap Fund,2022-01-02,55.67
+F007,Parag Parikh Flexi Cap Fund,2022-01-03,55.46
+F007,Parag Parikh Flexi Cap Fund,2022-01-04,55.07
+F007,Parag Parikh Flexi Cap Fund,2022-01-05,54.97
+F007,Parag Parikh Flexi Cap Fund,2022-01-06,55.23
+F007,Parag Parikh Flexi Cap Fund,2022-01-07,55.32
+F007,Parag Parikh Flexi Cap Fund,2022-01-08,55.0
+F007,Parag Parikh Flexi Cap Fund,2022-01-09,55.08
+F007,Parag Parikh Flexi Cap Fund,2022-01-10,55.21
+F007,Parag Parikh Flexi Cap Fund,2022-01-11,55.0
+F007,Parag Parikh Flexi Cap Fund,2022-01-12,55.07
+F007,Parag Parikh Flexi Cap Fund,2022-01-13,55.11
+F007,Parag Parikh Flexi Cap Fund,2022-01-14,54.82
+F007,Parag Parikh Flexi Cap Fund,2022-01-15,54.95
+F007,Parag Parikh Flexi Cap Fund,2022-01-16,55.13
+F007,Parag Parikh Flexi Cap Fund,2022-01-17,55.46
+F007,Parag Parikh Flexi Cap Fund,2022-01-18,55.78
+F007,Parag Parikh Flexi Cap Fund,2022-01-19,55.42
+F007,Parag Parikh Flexi Cap Fund,2022-01-20,55.19
+F007,Parag Parikh Flexi Cap Fund,2022-01-21,55.36
+F007,Parag Parikh Flexi Cap Fund,2022-01-22,55.53
+F007,Parag Parikh Flexi Cap Fund,2022-01-23,55.7
+F007,Parag Parikh Flexi Cap Fund,2022-01-24,56.8
+F007,Parag Parikh Flexi Cap Fund,2022-01-25,56.99
+F007,Parag Parikh Flexi Cap Fund,2022-01-26,57.34
+F007,Parag Parikh Flexi Cap Fund,2022-01-27,57.64
+F007,Parag Parikh Flexi Cap Fund,2022-01-28,57.86
+F007,Parag Parikh Flexi Cap Fund,2022-01-29,57.8
+F007,Parag Parikh Flexi Cap Fund,2022-01-30,58.05
+F007,Parag Parikh Flexi Cap Fund,2022-01-31,57.85
+F008,UTI Bond Fund,2022-01-01,12.29
+F008,UTI Bond Fund,2022-01-02,12.27
+F008,UTI Bond Fund,2022-01-03,12.28
+F008,UTI Bond Fund,2022-01-04,12.43
+F008,UTI Bond Fund,2022-01-05,12.32
+F008,UTI Bond Fund,2022-01-06,12.37
+F008,UTI Bond Fund,2022-01-07,12.27
+F008,UTI Bond Fund,2022-01-08,12.25
+F008,UTI Bond Fund,2022-01-09,12.32
+F008,UTI Bond Fund,2022-01-10,12.33
+F008,UTI Bond Fund,2022-01-11,12.27
+F008,UTI Bond Fund,2022-01-12,12.23
+F008,UTI Bond Fund,2022-01-13,12.28
+F008,UTI Bond Fund,2022-01-14,12.24
+F008,UTI Bond Fund,2022-01-15,12.26
+F008,UTI Bond Fund,2022-01-16,12.27
+F008,UTI Bond Fund,2022-01-17,12.24
+F008,UTI Bond Fund,2022-01-18,12.38
+F008,UTI Bond Fund,2022-01-19,12.42
+F008,UTI Bond Fund,2022-01-20,12.3
+F008,UTI Bond Fund,2022-01-21,12.32
+F008,UTI Bond Fund,2022-01-22,12.28
+F008,UTI Bond Fund,2022-01-23,12.34
+F008,UTI Bond Fund,2022-01-24,12.3
+F008,UTI Bond Fund,2022-01-25,12.3
+F008,UTI Bond Fund,2022-01-26,12.34
+F008,UTI Bond Fund,2022-01-27,12.4
+F008,UTI Bond Fund,2022-01-28,12.33
+F008,UTI Bond Fund,2022-01-29,12.31
+F008,UTI Bond Fund,2022-01-30,12.29
+F008,UTI Bond Fund,2022-01-31,12.26
+F009,Mirae Asset Tax Saver Fund,2022-01-01,42.19
+F009,Mirae Asset Tax Saver Fund,2022-01-02,42.3
+F009,Mirae Asset Tax Saver Fund,2022-01-03,42.05
+F009,Mirae Asset Tax Saver Fund,2022-01-04,42.26
+F009,Mirae Asset Tax Saver Fund,2022-01-05,42.73
+F009,Mirae Asset Tax Saver Fund,2022-01-06,42.98
+F009,Mirae Asset Tax Saver Fund,2022-01-07,42.67
+F009,Mirae Asset Tax Saver Fund,2022-01-08,42.59
+F009,Mirae Asset Tax Saver Fund,2022-01-09,42.88
+F009,Mirae Asset Tax Saver Fund,2022-01-10,42.75
+F009,Mirae Asset Tax Saver Fund,2022-01-11,42.87
+F009,Mirae Asset Tax Saver Fund,2022-01-12,43.05
+F009,Mirae Asset Tax Saver Fund,2022-01-13,42.88
+F009,Mirae Asset Tax Saver Fund,2022-01-14,42.88
+F009,Mirae Asset Tax Saver Fund,2022-01-15,42.21
+F009,Mirae Asset Tax Saver Fund,2022-01-16,42.02
+F009,Mirae Asset Tax Saver Fund,2022-01-17,41.98
+F009,Mirae Asset Tax Saver Fund,2022-01-18,41.74
+F009,Mirae Asset Tax Saver Fund,2022-01-19,42.1
+F009,Mirae Asset Tax Saver Fund,2022-01-20,41.82
+F009,Mirae Asset Tax Saver Fund,2022-01-21,41.75
+F009,Mirae Asset Tax Saver Fund,2022-01-22,41.8
+F009,Mirae Asset Tax Saver Fund,2022-01-23,42.12
+F009,Mirae Asset Tax Saver Fund,2022-01-24,41.84
+F009,Mirae Asset Tax Saver Fund,2022-01-25,42.11
+F009,Mirae Asset Tax Saver Fund,2022-01-26,42.13
+F009,Mirae Asset Tax Saver Fund,2022-01-27,41.94
+F009,Mirae Asset Tax Saver Fund,2022-01-28,
+F009,Mirae Asset Tax Saver Fund,2022-01-29,42.12
+F009,Mirae Asset Tax Saver Fund,2022-01-30,42.02
+F009,Mirae Asset Tax Saver Fund,2022-01-31,42.06
+F010,Franklin India Ultra Short Bond,2022-01-01,20.37
+F010,Franklin India Ultra Short Bond,2022-01-02,20.39
+F010,Franklin India Ultra Short Bond,2022-01-03,20.47
+F010,Franklin India Ultra Short Bond,2022-01-04,20.64
+F010,Franklin India Ultra Short Bond,2022-01-05,20.53
+F010,Franklin India Ultra Short Bond,2022-01-06,20.75
+F010,Franklin India Ultra Short Bond,2022-01-07,20.56
+F010,Franklin India Ultra Short Bond,2022-01-08,20.56
+F010,Franklin India Ultra Short Bond,2022-01-09,20.63
+F010,Franklin India Ultra Short Bond,2022-01-10,20.67
+F010,Franklin India Ultra Short Bond,2022-01-11,78.0628302232267
+F010,Franklin India Ultra Short Bond,2022-01-12,20.6
+F010,Franklin India Ultra Short Bond,2022-01-13,20.56
+F010,Franklin India Ultra Short Bond,2022-01-14,20.51
+F010,Franklin India Ultra Short Bond,2022-01-15,20.61
+F010,Franklin India Ultra Short Bond,2022-01-16,20.66
+F010,Franklin India Ultra Short Bond,2022-01-17,20.59
+F010,Franklin India Ultra Short Bond,2022-01-18,20.7
+F010,Franklin India Ultra Short Bond,2022-01-19,20.74
+F010,Franklin India Ultra Short Bond,2022-01-20,20.83
+F010,Franklin India Ultra Short Bond,2022-01-21,20.91
+F010,Franklin India Ultra Short Bond,2022-01-22,20.83
+F010,Franklin India Ultra Short Bond,2022-01-23,20.79
+F010,Franklin India Ultra Short Bond,2022-01-24,20.87
+F010,Franklin India Ultra Short Bond,2022-01-25,20.95
+F010,Franklin India Ultra Short Bond,2022-01-26,20.96
+F010,Franklin India Ultra Short Bond,2022-01-27,20.98
+F010,Franklin India Ultra Short Bond,2022-01-28,21.12
+F010,Franklin India Ultra Short Bond,2022-01-29,21.07
+F010,Franklin India Ultra Short Bond,2022-01-30,
+F010,Franklin India Ultra Short Bond,2022-01-31,21.13
